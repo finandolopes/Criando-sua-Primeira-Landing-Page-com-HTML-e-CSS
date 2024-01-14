@@ -5,7 +5,7 @@
 * Criando sua Primeira Landing Page com HTML e CSS
 - [Link do projeto:](https://finandolopes.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/)
   
-  1. Foi utilizado um protótipo via Figma para orientação de como o design deveria ficar;
+* Foi utilizado um protótipo via Figma para orientação de como o design deveria ficar;
   [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
 que você possa se basear.
   
