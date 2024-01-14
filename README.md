@@ -11,21 +11,21 @@ que você possa se basear.
   
 * Header:
 
-![Imagem](./assets/page-images/header.png)
+![Imagem](./assets/images/header.png)
 
 * Módulos:
 
-![Imagem](./assets/page-images/modulos.png)
+![Imagem](./assets/images/modulos.png)
 
 * Transforme o futuro:
 
-![Imagem](./assets/page-images/transforme.png)
+![Imagem](./assets/images/transforme.png)
 
 * Evolua:
 
-![Imagem](./assets/page-images/evolua.png)
+![Imagem](./assets/images/evolua.png)
 
 * Footer:
 
-![Imagem](./assets/page-images/footer.png)
+![Imagem](./assets/images/footer.png)
 
